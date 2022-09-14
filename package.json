@@ -1,12 +1,12 @@
 {
   "name": "HelpDesk",
-  "description": "HelpDesk application build on Total.js.",
+  "description": "HelpDesk application build on Tele-CMS.",
   "version": "0.0.1",
   "main": "release.js",
   "dependencies": {
-    "total.js": "latest",
     "pg": "latest",
-    "sqlagent": "latest"
+    "sqlagent": "latest",
+    "total.js": "^3.4.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,6 @@
     "helpdesk",
     "total.js"
   ],
-  "author":"Totaljs",
+  "author": "Tele-CMS",
   "license": "MIT"
 }

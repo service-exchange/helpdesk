@@ -1,8 +1,8 @@
 name                      : HelpDesk
 version                   : 1.0.0
-author                    : Peter Širka
+author                    : Billy Truong
 
-url                       : https://helpdesk.totaljs.com
+url                       : https://helpdesk.telecms.network
 
 // IMPORTANT: update the connection string below
 database                  : postgre://user:password@127.0.0.1/database
@@ -11,7 +11,7 @@ database                  : postgre://user:password@127.0.0.1/database
 
 mail-smtp                 : smtp.domain.com
 // mail-smtp-options         : {"user":"","password":""}
-mail-address-from         : support@totaljs.com
+mail-address-from         : support@telecms.network
 
 auth.cookie               : __user
 auth.secret               : HeLlUser

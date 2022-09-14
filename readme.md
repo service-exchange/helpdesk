@@ -1,10 +1,10 @@
 [![MIT License][license-image]][license-url]
 
-[![Support](https://www.totaljs.com/img/button-support.png?v=2)](https://www.totaljs.com/support/)
+[![Support](https://www.telecms.network/img/button-support.png?v=2)](https://www.telecms.network/support/)
 
 - __License__: [MIT](license.txt)
-- [__Live chat with professional support__](https://messenger.totaljs.com)
-- [__HelpDesk with professional support__](https://helpdesk.totaljs.com)
+- [__Live chat with professional support__](https://messenger.telecms.network)
+- [__HelpDesk with professional support__](https://helpdesk.telecms.network)
 
 # Installation
 
@@ -16,14 +16,15 @@
 - run `node debug.js`
 
 __Login__:
-- user: `support@totaljs.com`
+
+- user: `support@telecms.network`
 - password: `123456`
 
 ---
 
 ## How do I to translate HelpDesk?
 
-- install Total.js as global module `npm install -g total.js`
+- install Tele-CMS as global module `npm install -g total.js`
 - then open HelpDesk directory `cd helpdesk`
 - then perform this command `totaljs --translate`
 - translate translated file `translate.resource`

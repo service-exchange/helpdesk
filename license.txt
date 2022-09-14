@@ -1,5 +1,5 @@
 The MIT License
-Copyright 2012-2016 (c) Peter Širka <petersirka@gmail.com>
+Copyright 2022 (c) Tele-CMS INC. | Partner & Service Exchange Network <account@service.exchange>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
